@@ -1,5 +1,7 @@
-Remicoin Token Smart Contract
+Remicoin Smart Contract
 =============================
+
+<img src="assets/logo.png" />
 
 A smart contract for send and recieve digital payment in a fast,secure and reliable manner.
 
